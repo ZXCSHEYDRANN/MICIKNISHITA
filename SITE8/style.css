@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    justify-content: center;
+    gap: 40px
+    }
+    div {
+    border: 5px solid black;
+    padding: 100px;
+    }
